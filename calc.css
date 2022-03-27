@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #696969;
+}
+header {
+  text-align: center;
+  margin-top: 50px;
+  padding: 5px;
+  font-family: "BhuTuka Expanded One", cursive;
+}
+.calcbody {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+.soln {
+  background-color: rgb(63, 58, 58);
+  width: 99%;
+  border-radius: 5px;
+  height: 70px;
+  font-size: 30px;
+  color: white;
+  outline: none;
+}
+
+.ac {
+  width: 50%;
+  height: 80px;
+  border-radius: 5px;
+  background-color: #800080;
+}
+
+.del {
+  width: 30%;
+  height: 80px;
+  border-radius: 5px;
+}
+.divide {
+  width: 17%;
+  height: 80px;
+  border-radius: 5px;
+}
+.group {
+  width: 24%;
+  height: 65px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.equals {
+  width: 49%;
+  height: 65px;
+  border-radius: 5px;
+  background-color: #800080;
+}
